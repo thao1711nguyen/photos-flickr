@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+* This website is created as part of the project of "Ruby on Rails" Course by The Odin Project. Check it out at: https://www.theodinproject.com/lessons/ruby-on-rails-flickr-api
